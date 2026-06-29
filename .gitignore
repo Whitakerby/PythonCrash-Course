@@ -1,0 +1,17 @@
+# Python 运行缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm 编辑器配置
+.idea/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 系统临时文件
+*.log
+.DS_Store
+Thumbs.db
