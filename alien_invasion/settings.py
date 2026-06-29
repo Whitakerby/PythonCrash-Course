@@ -15,3 +15,5 @@ class Settings:
 
         #飞船设置
         self.ship_speed = 1.5
+        #外星人设置
+        self.alien_speed = 1.0
